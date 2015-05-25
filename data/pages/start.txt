@@ -9,3 +9,6 @@ testing git, 1,2,3. < delete me
 
 
 [[a link to some page]]
+
+An image
+{{ :brontolabs.png?nolink |}}

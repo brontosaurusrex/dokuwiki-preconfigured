@@ -1,0 +1,3 @@
+#!/bin/bash
+
+php -S localhost:7070 & iceweasel localhost:7070
