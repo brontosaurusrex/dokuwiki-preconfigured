@@ -1,3 +1,5 @@
 #!/bin/bash
 
+# to open internal php server on all interfaces, php -S 0.0.0.0:7070
+
 php -S localhost:7070 & iceweasel localhost:7070
