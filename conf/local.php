@@ -6,7 +6,7 @@
  */
 $conf['title'] = 'wiki';
 $conf['lang'] = 'en';
-$conf['license'] = 'cc-by-sa';
+$conf['license'] = '';
 $conf['useacl'] = 0;
 $conf['superuser'] = '@admin';
 $conf['disableactions'] = 'register';
