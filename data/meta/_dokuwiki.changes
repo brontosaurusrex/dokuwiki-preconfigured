@@ -3,3 +3,6 @@
 1432570555	::1	E	start			
 1432572139	::1	E	start			
 1432572161	::1	E	start			
+1432572274	127.0.0.1	E	start		external edit	
+1432572461	::1	E	start			
+1432572472	::1	C	a_link_to_some_page		created	
