@@ -15,3 +15,4 @@ testing git, 1,2,3. < delete me
 An image
 {{ :brontolabs.png?nolink |}}
 
+and a diff here.
